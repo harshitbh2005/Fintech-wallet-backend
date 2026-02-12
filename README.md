@@ -1,6 +1,6 @@
 # Fintech Wallet Backend
 
-A Spring Boot based backend for a digital wallet similar to Paytm / PhonePe.
+A Spring Boot based backend for a digital wallet similar to Paytm and PhonePe.
 
 ## Features
 - User signup & login (JWT based authentication)
