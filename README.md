@@ -31,7 +31,7 @@ GET   /wallet/transactions
 2. Update `application.properties`
 3. Run:
 
-   Project can be tested using POSTMAN
+Project can be tested using POSTMAN
 
 
 This project demonstrates a real-world fintech wallet backend with authentication, transactions, and database integration.
